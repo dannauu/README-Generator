@@ -3,6 +3,16 @@ function generateMarkdown(answers) {
   # Title
   ${answers.ProjectName}
 
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contribute](#Contribute)
+  - [Tests](#Tests)
+  - [Username](#Username)
+  - [Repository](#Repository)
+
   ## Description
   ${answers.Description}
 

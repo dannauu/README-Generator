@@ -1,7 +1,17 @@
 
   # Title
   README.md Generator
-k
+
+  ## Table of Contents
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contribution](#Contribution)
+  - [Tests](#Tests)
+  - [Username](#Username)
+  - [Repository](#Repository)
+
   ## Description
   Every application or project deserves a well written and formatted README file. The purpose of the README file is to display necessary information on what the app or project is for, how to use it, how to install it, and also report bugs and or make contributions.
 
@@ -13,16 +23,16 @@ k
   When running the application you will be prompted with a series of questions, either hit enter and or fill out necessary information based on the given question.
 
   ## License
-  MIT
+  MIT License
 
   ## Contribution
-  Fork the repository and then send a pull request!
+  N/A
 
   ## Tests
   N/A
 
   ## Github Username
-  dannau
+  undefined
 
   ## Github Repository
   README-Generator

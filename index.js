@@ -11,11 +11,6 @@ function promptUser(){
     return inquirer.prompt([
     {
         type: 'input',
-        message: 'What is your github username?',
-        name: 'Username',
-    }, 
-    {
-        type: 'input',
         message: 'What is the name of your github repository?',
         name: 'Repository',
     },
@@ -52,7 +47,7 @@ function promptUser(){
     {
         type: 'list',
         message: 'Choose a license for your project:',
-        choices: ['Apache', 'GPL', 'Eclipse', 'MIT', 'none'],
+        choices: ['Apache', 'GPL', 'Eclipse', 'MIT License'],
         name: 'License',
     }
 ])
