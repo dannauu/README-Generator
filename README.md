@@ -23,8 +23,8 @@
   When running the application you will be prompted with a series of questions, either hit enter and or fill out necessary information based on the given question.
 
   Link provided for video tutorial
-  [a link](https://drive.google.com/file/d/1_J-x2VAazeh-jsMqr7KskqtF82z4CDV7/view)
-  
+  [Video Tutorial](https://drive.google.com/file/d/1_J-x2VAazeh-jsMqr7KskqtF82z4CDV7/view)
+
   ## License
   MIT License
 
