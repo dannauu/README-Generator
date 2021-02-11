@@ -21,6 +21,7 @@
 
   ## Usage
   ![](https://github.com/dannauu/README-Generator/blob/main/assets/images/readme-generator.gif)
+  ![](https://github.com/dannauu/README-Generator/blob/main/assets/images/Screenshot1.PNG)
   When running the application you will be prompted with a series of questions, either hit enter and or fill out necessary information based on the given question.
 
   ## Tutorial
