@@ -1,6 +1,5 @@
 
-  # Title
-  README.md Generator
+  # README.md Generator
 
   ## Table of Contents
   - [Description](#description)

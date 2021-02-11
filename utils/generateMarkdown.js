@@ -1,7 +1,6 @@
 function generateMarkdown(answers) {
   return `
-  # Title
-  ${answers.ProjectName}
+  # ${answers.title}
 
   ## Table of Contents
   - [Description](#description)
