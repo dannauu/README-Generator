@@ -6,6 +6,7 @@
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#Usage)
+  - [Tutorial](#Tutorial)
   - [License](#License)
   - [Contribute](#Contribute)
   - [Tests](#Tests)
@@ -22,7 +23,7 @@
   ![](https://github.com/dannauu/README-Generator/blob/main/assets/images/readme-generator.gif)
   When running the application you will be prompted with a series of questions, either hit enter and or fill out necessary information based on the given question.
 
-  ## Video Tutorial
+  ## Tutorial
 
   [Video Tutorial](https://drive.google.com/file/d/1_J-x2VAazeh-jsMqr7KskqtF82z4CDV7/view)
 
