@@ -36,9 +36,9 @@
   ## Tests
   N/A
 
-  ## Github Username
+  ## Username
   undefined
 
-  ## Github Repository
+  ## Repository
   README-Generator
   
