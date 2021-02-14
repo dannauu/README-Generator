@@ -7,7 +7,7 @@
   - [Usage](#Usage)
   - [Tutorial](#Tutorial)
   - [License](#License)
-  - [Contribute](#Contribute)
+  - [Contribution](#Contribution)
   - [Tests](#Tests)
   - [Username](#Username)
   - [Repository](#Repository)
